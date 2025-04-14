@@ -219,3 +219,5 @@
 /home/efe33/Masaüstü/MVC/PerformansTakip/obj/Debug/net9.0/PerformansTakip.pdb
 /home/efe33/Masaüstü/MVC/PerformansTakip/obj/Debug/net9.0/PerformansTakip.genruntimeconfig.cache
 /home/efe33/Masaüstü/MVC/PerformansTakip/obj/Debug/net9.0/ref/PerformansTakip.dll
+/home/efe33/Masaüstü/MVC/PerformansTakip/obj/Debug/net9.0/PerformansTakip.sourcelink.json
+/home/efe33/Masaüstü/MVC/PerformansTakip/bin/Debug/net9.0/BCrypt.Net-Next.dll

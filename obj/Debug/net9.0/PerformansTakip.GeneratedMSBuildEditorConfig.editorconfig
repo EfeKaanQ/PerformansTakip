@@ -36,6 +36,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/efe33/Masaüstü/MVC/PerformansTakip/Views/Ogretmen/Giris.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT2dyZXRtZW4vR2lyaXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/efe33/Masaüstü/MVC/PerformansTakip/Views/Ogretmen/Kayit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT2dyZXRtZW4vS2F5aXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/efe33/Masaüstü/MVC/PerformansTakip/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

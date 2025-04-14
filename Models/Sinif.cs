@@ -6,6 +6,8 @@ namespace PerformansTakip.Models
     {
         public int Id { get; set; }
         public string Ad { get; set; }
+         public int OgretmenId { get; set; } 
+          public Ogretmen Ogretmen { get; set; }
         
         public List<Ogrenci> Ogrenciler { get; set; }
     }
