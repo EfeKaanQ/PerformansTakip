@@ -1,0 +1,13 @@
+@model IEnumerable<PerformansTakip.Models.Sinif>
+
+<h1>Sınıf Listesi</h1>
+<ul>
+    @foreach (var sinif in Model)
+    {
+        <li>
+            <a href="@Url.Action("Detay", "Sinif", new { id = sinif.Id })">
+                @sinif.Ad
+            </a>
+        </li>
+    }
+</ul>
